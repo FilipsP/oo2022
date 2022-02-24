@@ -3,12 +3,14 @@ public class Human {
     int vanus;
     double pikkus;
     boolean mees;
+    char symbol;
 
     public Human(String nimi, int vanus, double pikkus, boolean mees){
         this.nimi = nimi;
         this.vanus = vanus;
         this.pikkus = pikkus;
         this.mees = mees;
+        this.symbol = 'R';
     }
 
     public void sayHello(){
@@ -17,6 +19,7 @@ public class Human {
 
 
     // to ---> võtan toString() --> enter
+
     @Override
     public String toString() {
         return "Human{" +
@@ -24,6 +27,7 @@ public class Human {
                 ", vanus=" + vanus +
                 ", pikkus=" + pikkus +
                 ", mees=" + mees +
+                ", symbol=" + symbol +
                 '}';
     }
 }

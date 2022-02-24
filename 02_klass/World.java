@@ -6,7 +6,7 @@ public class World {
         this.worldHeight = height;
         this.worldWidth = width;
     }
-    public void printMap(int playerCoordinateX, int playerCoordinateY, int enemyCoordinateX, int enemyCoordinateY){
+    public void printMap(int playerCoordinateY, int playerCoordinateX, int enemyCoordinateY, int enemyCoordinateX){
         char symbol; //deklareerib 1x kord muutuja, mitte iga kord deklareerib
         // fori --> pakub
         for (int y = 0; y < worldHeight; y++) {

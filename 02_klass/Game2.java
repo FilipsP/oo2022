@@ -38,10 +38,6 @@ public class Game2 {
         }
     }
 
-    public static int generateRandomCoordinate(int worldSize) {
-            return (int) (Math.random() * (worldSize - 2)) + 1;
-        }
-
 
 
 }
