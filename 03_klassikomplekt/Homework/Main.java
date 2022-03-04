@@ -11,5 +11,6 @@ public class Main {
         //status - katki/paranduses/valmis
         // isPayed  - true/false
         CarCheck CarCheck = new CarCheck("katki", true);
+        
     }
 }
