@@ -7,8 +7,6 @@ public class CarInfo {
     String ownerFirstName;
     String ownerLastName;
 
-
-
     public CarInfo(String manufacturer, String model, String carCode, String ownerFirstName, String ownerLastName){
         this.manufacturer = manufacturer;
         this.model = model;
