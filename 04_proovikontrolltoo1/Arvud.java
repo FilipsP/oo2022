@@ -3,6 +3,7 @@ import java.util.List;
 
 public class Arvud {
     List<Integer> arvudListis = new ArrayList<>();
+    List<Double> arvudKeskmisega = new ArrayList<>();
 
     public Arvud(int arv1, int arv2, int arv3){
         arvudListis.add(arv1);
@@ -15,20 +16,11 @@ public class Arvud {
     }
 
     public List<Double> libisevKeskmine(){
-
-        if (arvudKeskmisega.isEmpty()){
-            for (int i = 0; i < arvudListis.size()-2; i++) {
-                double uusNumber = (arvudListis.get(i)+arvudListis.get(i+1)+arvudListis.get(i+2))/3.0;
-                doubles.add(uusNumber);
-            }
-            arvudKeskmisega = doubles;
-        }else{
-            if (arvudKeskmisega.size() == doubles.size()-2){
-                return arvudKeskmisega;
-            }else{
-
-            }
-        }
-        return doubles;
+     List<Double> loppList = new ArrayList<>(this.arvudListis.size() - 2);
+     for (int i = arvudKeskmisega.size(); i < this.arvudListis.size() - 2; i++){
+         loppList.add((this.arvudListis.get(i + 1) + this.arvudListis.get(i + 2)) / 2.0);
+     }
+     arvudKeskmisega.addAll(loppList);
+     return arvudKeskmisega;
     }
 }
