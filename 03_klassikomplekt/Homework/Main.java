@@ -6,11 +6,10 @@ public class Main {
         CarInfo CarInfo = new CarInfo("Skoda", "Octavia", "QFG456", "Martin", "Tamm");
 
         String carInfo = CarInfo.carInfoOutput();
-        System.out.println(carInfo);
 
         //status - katki/paranduses/valmis
         // isPayed  - true/false
-        CarCheck CarCheck = new CarCheck("katki", true);
+        CarCheck CarCheck = new CarCheck(carInfo,"valmis", true);
         
     }
 }
