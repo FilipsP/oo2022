@@ -9,7 +9,7 @@ public class Main {
 
         //status - katki/paranduses/valmis
         // isPayed  - true/false
-        CarCheck CarCheck = new CarCheck(carInfo,"valmis", true);
+        CarCheck CarCheck = new CarCheck(carInfo,"katki", true);
         
     }
 }
