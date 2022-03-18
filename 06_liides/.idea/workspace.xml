@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ab77e8-48ff-4f6c-8330-a041414804bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_liides.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Game2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/QuestMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/WorldObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/AutomaatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/Isikukood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodFI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodLV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isikukood/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kujundid/Kolmnurk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kujundid/Kujund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kujundid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kujundid/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kujundid/Ristküülik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_liides/06_liides.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26YfhKLZiKMNVL2EXIx4zPQf2vO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Filipp\Documents\Uni\OOP\oo2022\06_liides\game" />
+      <recent name="C:\Users\Filipp\Documents\Uni\OOP\oo2022\06_liides\isikukood" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Filipp\Documents\Uni\OOP\oo2022\06_liides\isikukood" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game2">
+    <configuration name="Game2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game2" />
+      <module name="06_liides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Isikukood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isikukood.Isikukood" />
+      <module name="06_liides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isikukood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomaatTest.konntrolli_kas_kujundi_pindala_arvutakse_korrektselt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_liides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isikukood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="isikukood" />
+      <option name="MAIN_CLASS_NAME" value="isikukood.AutomaatTest" />
+      <option name="METHOD_NAME" value="konntrolli_kas_kujundi_pindala_arvutakse_korrektselt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomaatTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_liides" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isikukood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="isikukood" />
+      <option name="MAIN_CLASS_NAME" value="isikukood.AutomaatTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game2" />
+        <item itemvalue="JUnit.AutomaatTest.konntrolli_kas_kujundi_pindala_arvutakse_korrektselt" />
+        <item itemvalue="JUnit.AutomaatTest.test1" />
+        <item itemvalue="Application.Isikukood" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ab77e8-48ff-4f6c-8330-a041414804bc" name="Changes" comment="" />
+      <created>1647605558288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647605558288</updated>
+      <workItem from="1647605559587" duration="4189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
