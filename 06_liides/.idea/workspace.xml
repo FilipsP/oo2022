@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ab77e8-48ff-4f6c-8330-a041414804bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_liides.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Game2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/ItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/QuestMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/WorldObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/AutomaatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/Isikukood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodEE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodFI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodLV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/IsikukoodObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isikukood/junit-4.13.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kujundid/Kolmnurk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kujundid/Kujund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kujundid/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kujundid/Ring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kujundid/Ristküülik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/06_liides/06_liides.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_junit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_junit/.idea/07_junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_junit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_junit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/FarmAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/HomeAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Moose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_alamklassid/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Game2.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Game2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +53,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08_alamklassid" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -154,6 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647605558288</updated>
       <workItem from="1647605559587" duration="4189000" />
+      <workItem from="1648204451502" duration="2682000" />
     </task>
     <servers />
   </component>
