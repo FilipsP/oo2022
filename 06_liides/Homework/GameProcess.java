@@ -21,16 +21,16 @@ public class GameProcess implements DiceGame{
         firstPlayerRes = random();
         secondPlayerRes = random();
         if(firstPlayerRes > secondPlayerRes){
-            System.out.println(firstPlayer + " - win");
+            System.out.println(firstPlayer + " - winner");
             resultOutput();
         }
         if(firstPlayerRes < secondPlayerRes){
-            System.out.println(secondPlayer + " - win");
+            System.out.println(secondPlayer + " - winner");
             resultOutput();
 
         }
         if(firstPlayerRes == secondPlayerRes){
-            System.out.println(secondPlayer + " - draw");
+            System.out.println(firstPlayer + " and " + secondPlayer +  " - draw");
             resultOutput();
         }
 
