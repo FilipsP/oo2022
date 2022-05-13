@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1611138c-65bd-493f-8075-af69e4fd7aba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../06_liides/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_liides/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07_junit/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07_junit/Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07_junit/out/production/07_junit/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../07_junit/out/production/07_junit/Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/09_tunnirakenduse_lahendus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/09_tunnirakenduse_lahendus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Hammasratas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Pendel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webshop" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Filipp/Documents/Uni/OOP/oo2022/11_proovikontrolltoo2",
+    "spring.configuration.checksum": "ff4f702de67a1b253fa049521ea62868"
+  }
+}]]></component>
   <component name="RunManager" selected="Spring Boot.WebshopApplication">
     <configuration name="WebshopApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ee.mihkel.webshop.WebshopApplication" />
@@ -89,6 +83,7 @@
       <updated>1649413173646</updated>
       <workItem from="1649413176012" duration="1592000" />
       <workItem from="1649419810666" duration="139000" />
+      <workItem from="1651832017971" duration="18000" />
     </task>
     <servers />
   </component>

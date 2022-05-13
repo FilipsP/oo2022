@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ab77e8-48ff-4f6c-8330-a041414804bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/proovkontrolltoo_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Hammasratas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/com/company/Pendel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/JoogiKast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/JoogiPudel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/JoogiPudelTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/JoogiVaatTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/JoogikastTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/Joogivaat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/Jook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/Teine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_proovikontrolltoo2/proovkontrolltoo_2/src/teineosa/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/12_kontrolltoo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/LastChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_kontrolltoo2/SortChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07_junit/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07_junit/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../09_tunnirakenduse_lahendus/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +60,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Filipp/Documents/Uni/OOP/oo2022/06_liides&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Filipp\Documents\Uni\OOP\oo2022\06_liides\game" />
@@ -149,6 +171,8 @@
       <workItem from="1649349047273" duration="9260000" />
       <workItem from="1649371499551" duration="99000" />
       <workItem from="1649410169388" duration="1729000" />
+      <workItem from="1652437358137" duration="32000" />
+      <workItem from="1652437704033" duration="2225000" />
     </task>
     <servers />
   </component>
